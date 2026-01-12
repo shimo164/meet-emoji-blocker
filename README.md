@@ -4,6 +4,20 @@
 
 Meet Emoji Blocker is a Chrome extension that hides Google Meet reaction emoji buttons to prevent accidental clicks. It ships with an options page where you can enable or disable each reaction emoji individually.. All reactions are enabled by default.
 
+## Settings
+
+Default
+
+![alt text](img/image-before.png)
+
+Modified by this extension
+
+![alt text](img/image-after.png)
+
+In the Options page, toggle the icons you want to show and hide.
+![Options page](img/settings1.png)
+
+
 ## Specification
 
 - Scope: runs only on https://meet.google.com/* as a Manifest V3 content script and stylesheet.
